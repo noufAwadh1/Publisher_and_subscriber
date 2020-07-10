@@ -17,7 +17,7 @@
   	 * ` catkin_init_workspace ` // initilize the src as workspace 
   	 * ` ls ` // list out to insure there is new file with name **CMakeLists.txt**
  * **to compile your workspace:**
- 	* ` cd .. `  //  navigate directory to ** catkin_ws **
+ 	* ` cd .. `  //  navigate directory to **catkin_ws**
  	* ` catkin_make ` // to start the build process 
  	* ` ls ` // list out to make sure there are to folder builded **build** and **devel**
  * **creat ROSpackge:**
