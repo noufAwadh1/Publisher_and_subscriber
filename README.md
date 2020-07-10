@@ -25,7 +25,7 @@
  	* ` catkin_create_pkg robot_tutorials rospy roscpp std_msgs ` // **robot_tutorials** is the name of the ras package.  **rospy** to write a python code. **roscpp** to write c++ code. **std_msgs** to refer to the standard mesages types that devel will use such as **int8** **int16** **string** **bool**
  	*  ` ls ` to make sure there is a new packge called **robot_tutorials**
  	* ` ls /robot_tutorials ` // make sure it containe **CMakeLists** , **include** , **package.xml** and **src**
- 	*  ` cd .. ` // navigate to the workspace ** catkin_ws **
+ 	*  ` cd .. ` // navigate to the workspace **catkin_ws**
  	* ` catkin_make ` // build the workspace withe the new packges inside 
  ## How to make Publisher Code
  * navigate the directory to **robot_tutorials** folder 
