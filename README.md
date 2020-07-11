@@ -34,7 +34,7 @@
  * open the termenal and write `roscore` to start the master node
  * open new window of terminal and navigate the directory to scripts folder 
  * write `chmod +x publiserCode.py`  to chaneg the premissions of file 
- * `python3 publiserCode.py` to run the code and you will get the results as you see in **publiserCodeResult** image, there is 10 mesages/sec
+ * `python3 publiserCode.py` to run the code and you will get the results as you see in []!(Publisher_and_subscriber/publiserCodeResults.png) image, there is 10 mesages/sec
  * write `rosnode info /catkinE` to observe the ros node publishing the message as you see in **rosnode_info** image
  * write`rosrun rqt_graprh rqt_graph` to see the node and publishing as graph inetially the node without any subscription  as you see in **befor_echo** image
  *  write`rostopic echo  /hello` you will see the publisher and subscriber as **after_echo** image 
