@@ -36,7 +36,8 @@
  * write `chmod +x publiserCode.py`  to chaneg the premissions of file 
  * `python3 publiserCode.py` to run the code and you will get the results as you see in  image, there is 10 mesages/sec
  ![publiserCodeResults](https://user-images.githubusercontent.com/50454895/87230664-304e6980-c3ba-11ea-9ab4-7f0a1a8bc08f.png)
- * write `rosnode info /catkinE` to observe the ros node publishing the message as you see in **rosnode_info** image
+ * write `rosnode info /catkinE` to observe the ros node publishing the message as you see in image
+ ![rosnode_info](https://user-images.githubusercontent.com/50454895/87230807-caaead00-c3ba-11ea-9277-f3c8230a1d75.png)
  
  * write`rosrun rqt_graprh rqt_graph` to see the node and publishing as graph inetially the node without any subscription  as you see in **befor_echo** image
  *  write`rostopic echo  /hello` you will see the publisher and subscriber as **after_echo** image 
