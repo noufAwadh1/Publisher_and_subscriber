@@ -39,7 +39,8 @@
  * write `rosnode info /catkinE` to observe the ros node publishing the message as you see in image
  ![rosnode_info](https://user-images.githubusercontent.com/50454895/87230807-caaead00-c3ba-11ea-9277-f3c8230a1d75.png)
  
- * write`rosrun rqt_graprh rqt_graph` to see the node and publishing as graph inetially the node without any subscription  as you see in **befor_echo** image
+ * write`rosrun rqt_graprh rqt_graph` to see the node and publishing as graph inetially the node without any subscription  as you see in image
+ [before_echo](https://user-images.githubusercontent.com/50454895/87230843-06497700-c3bb-11ea-86bd-5bab9e47a6c2.png)
  *  write`rostopic echo  /hello` you will see the publisher and subscriber as **after_echo** image 
   ## How to make Subcriber Code:
   * navigate the directory to Scribt file and write the code inside it
