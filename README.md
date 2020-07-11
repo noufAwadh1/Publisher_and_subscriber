@@ -40,7 +40,7 @@
  ![rosnode_info](https://user-images.githubusercontent.com/50454895/87230807-caaead00-c3ba-11ea-9277-f3c8230a1d75.png)
  
  * write`rosrun rqt_graprh rqt_graph` to see the node and publishing as graph inetially the node without any subscription  as you see in image
- [before_echo](https://user-images.githubusercontent.com/50454895/87230843-06497700-c3bb-11ea-86bd-5bab9e47a6c2.png)
+ ![before_echo](https://user-images.githubusercontent.com/50454895/87231514-86bea680-c3c0-11ea-9b21-74cd1f76fb93.png)
  *  write`rostopic echo  /hello` you will see the publisher and subscriber as image 
  ![after_echo](https://user-images.githubusercontent.com/50454895/87230864-34c75200-c3bb-11ea-86ac-474fa17e5d1d.png)
  
