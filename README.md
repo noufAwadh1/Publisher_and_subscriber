@@ -41,17 +41,22 @@
  
  * write`rosrun rqt_graprh rqt_graph` to see the node and publishing as graph inetially the node without any subscription  as you see in image
  [before_echo](https://user-images.githubusercontent.com/50454895/87230843-06497700-c3bb-11ea-86bd-5bab9e47a6c2.png)
- *  write`rostopic echo  /hello` you will see the publisher and subscriber as **after_echo** image 
+ *  write`rostopic echo  /hello` you will see the publisher and subscriber as image 
+ ![after_echo](https://user-images.githubusercontent.com/50454895/87230864-34c75200-c3bb-11ea-86ac-474fa17e5d1d.png)
+ 
   ## How to make Subcriber Code:
   * navigate the directory to Scribt file and write the code inside it
   * change the premissions as you made with the publisher code
   * run it and open the rqt_graph
-  * there is just one node as you see in **subscriberCodeRunning** image 
+  * there is just one node as you see in  image 
+  ![subscriberCode_runnig](https://user-images.githubusercontent.com/50454895/87230873-4577c800-c3bb-11ea-87ea-9e9166e7fd60.png)
+
   
   ## How to make subscriber Code to listen to the publisher:
   
    * open new window of terminal and navigate the directory to scripts folder
-   * the result will be as **finalResuolt** image 
+   * the result will be as  image 
+   ![finalResuolt](https://user-images.githubusercontent.com/50454895/87230882-5c1e1f00-c3bb-11ea-9d5a-b0b0f30d21ce.png)
    
   
 
