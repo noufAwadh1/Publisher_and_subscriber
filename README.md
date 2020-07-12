@@ -14,7 +14,7 @@
   	 * ` cd catcin_ws ` // change directory to that folder
   	 * ` mkdir src ` // make folder with src name to containe ROS packge
   	 * ` cd src ` // change directory to src folder 
-  	 * ` catkin_init_workspace ` // initilize the src as workspace 
+  	 * ` catkin_init_workspace ` // initialize the src as workspace 
   	 * ` ls ` // list out to insure there is new file with name **CMakeLists.txt**
  * **to compile your workspace:**
  	* ` cd .. `  //  navigate directory to **catkin_ws**
